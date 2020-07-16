@@ -20,7 +20,7 @@ function deepestChild() {
   var current = document.querySelectorAll('div')
   var next = current [spot]
   while(next){
-    current= document.querySelector(current  'div')
+   next
     
   }
   
