@@ -21,7 +21,7 @@ function deepestChild() {
   var next = current[spot]
   for(var i = 0; i <current.length ; i++){
     next= current[i]
-    if(next.innerHTML)
+    
   }
   
   
