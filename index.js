@@ -21,5 +21,8 @@ function deepestChild() {
   var next = current [spot]
   while(next){
     current= current.querySelector('div')
+    next = current.querySelector('div')
   }
+  
+  return current
 }
