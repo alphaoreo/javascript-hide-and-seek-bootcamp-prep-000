@@ -21,5 +21,5 @@ function deepestChild() {
   var next = current [spot]
   
   
-  return next
+  return current
 }
